@@ -1,6 +1,10 @@
 # flutter_chat
 
-A new Flutter project.
+#1 채팅 모바일앱 제작(Appbar, Theme) 
+
+https://www.youtube.com/watch?v=znTdbmWLJZU
+
+![CreatePlan](./screenshot/main.jpg)
 
 ## Getting Started
 
