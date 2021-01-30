@@ -4,7 +4,7 @@
 
 https://www.youtube.com/watch?v=znTdbmWLJZU
 
-![CreatePlan](./screenshot/main.jpg)
+![CreatePlan](./screenshot/main.png)
 
 ## Getting Started
 
