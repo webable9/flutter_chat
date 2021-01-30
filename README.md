@@ -4,7 +4,7 @@
 
 https://www.youtube.com/watch?v=znTdbmWLJZU
 
-![CreatePlan](https://github.com/webable9/flutter_chat/tree/main/lib/screenshot/main.png)
+![CreatePlan](./lib/screenshot/main.png)
 
 ## Getting Started
 
